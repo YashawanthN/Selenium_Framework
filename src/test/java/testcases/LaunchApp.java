@@ -23,7 +23,7 @@ public class LaunchApp extends BaseTest
 		Thread.sleep(3000);
 		driver.findElement(By.xpath(property1.getProperty("signin"))).click();
 		/*Thread.sleep(3000);
-		driver.findElement(By.xpath(property1.getProperty("skip"))).click();*/
+		//driver.findElement(By.xpath(property1.getProperty("skip"))).click();*/
 	}
-
+// fggfd;,hrh
 }
